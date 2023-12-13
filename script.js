@@ -2,10 +2,10 @@ const question =[
     {
         question: "Who is Inventor of C Language?",
         answers: [
-            {text:"Ashad" , correct:false},
-            {text:"Hibban" , correct:false},
+            {text:"Brendan Eich" , correct:false},
+            {text:"James Gossling" , correct:false},
             {text:"Dennis Ritchie" , correct:true},
-            {text:"Tauseef" , correct:false},
+            {text:"Guido Van Rossum" , correct:false},
         ]
     },
 
@@ -13,9 +13,9 @@ const question =[
         question: "Who is Inventor of Java Language?",
         answers: [
             {text:"James Gossling" , correct:true},
-            {text:"Hibban" , correct:false},
             {text:"Dennis Ritchie" , correct:false},
-            {text:"Tauseef" , correct:false},
+            {text:"Guido van Rossum" , correct:false},
+            {text:"Brendan Eich" , correct:false},
         ]
     },
 
@@ -25,7 +25,7 @@ const question =[
             {text:"James Gossling" , correct:false},
             {text:"Guido van Rossum" , correct:true},
             {text:"Dennis Ritchie" , correct:false},
-            {text:"Tauseef" , correct:false},
+            {text:"Brendan Eich" , correct:false},
         ]
     },
 
